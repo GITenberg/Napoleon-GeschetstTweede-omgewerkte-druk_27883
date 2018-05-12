@@ -1,0 +1,38 @@
+_repo: Napoleon-GeschetstTweede-omgewerkte-druk_27883
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27883-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chappuis, Herman Théodore
+    aliases:
+    - Chappuis, Herman Theodore
+    - Chappuis, H. Th.
+    birthdate: 1844
+    deathdate: 1906
+    gutenberg_agent_id: '32989'
+    url: http://www.gutenberg.org/2009/agents/32989
+  editor:
+    agent_name: Blaauw, August Hendrik Pieter
+    aliases:
+    - Blaauw, A.H.P.
+    - Blaauw, A. H. P.
+    gutenberg_agent_id: '32990'
+    url: http://www.gutenberg.org/2009/agents/32990
+description: ''
+gutenberg_issued: '2009-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27883'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+title: 'Napoleon Geschetst
+
+  Tweede omgewerkte druk'
+url: http://www.gutenberg.org/ebooks/27883
